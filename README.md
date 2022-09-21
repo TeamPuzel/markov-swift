@@ -1,3 +1,3 @@
 # markov-swift
 
-A description of this package.
+Generate text from markov chains in Swift
